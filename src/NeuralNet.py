@@ -132,3 +132,4 @@ for epoch in range(epochs):
     display.clear_output(wait=True)
     display.display(plt.gcf())
     display.clear_output(wait=True)
+    plt.show()
